@@ -1,5 +1,5 @@
 {
- "Name": "Download College Brawl",
+ test "Name": "Download College Brawl",
   "ImageURL": "https://raw.githubusercontent.com/PeasySTD/tesr/main/server-main/SERVER/de.png",
   "SecondImageURL": "https://raw.githubusercontent.com/PeasySTD/tesr/main/server-main/SERVER/PAGE1.png",
   "LinkURL": "https://t.co/Q1JKIqftRO",
